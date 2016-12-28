@@ -1,5 +1,5 @@
 func sayHello() {
-    let greeting = "Hello there!"
+    let greeting = "Ey there!"
     print(greeting)
 }
 
